@@ -3,7 +3,6 @@
   language: cpp
   compiler: gcc
   script: make && make test
-  -pip install --user cpp-coveralls
   #can add notifications secton as desired
 
 
