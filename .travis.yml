@@ -1,0 +1,9 @@
+# TODO: complete this in class
+
+  language: cpp
+  compiler: gcc
+  script: make && make test
+  #can add notifications secton as desired
+
+
+
